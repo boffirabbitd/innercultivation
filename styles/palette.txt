@@ -1,0 +1,50 @@
+/* CSS HEX */
+--dark-moss-green: #3E5512ff;
+--jordy-blue: #86BDF0ff;
+--old-gold: #BBBE1Dff;
+--pakistan-green: #203A03ff;
+--ruddy-blue: #5CA8ECff;
+--night: #131802ff;
+
+/* CSS HSL */
+--dark-moss-green: hsla(81, 65%, 20%, 1);
+--jordy-blue: hsla(209, 78%, 73%, 1);
+--old-gold: hsla(61, 74%, 43%, 1);
+--pakistan-green: hsla(88, 90%, 12%, 1);
+--ruddy-blue: hsla(208, 79%, 64%, 1);
+--night: hsla(74, 85%, 5%, 1);
+
+/* SCSS HEX */
+$dark-moss-green: #3E5512ff;
+$jordy-blue: #86BDF0ff;
+$old-gold: #BBBE1Dff;
+$pakistan-green: #203A03ff;
+$ruddy-blue: #5CA8ECff;
+$night: #131802ff;
+
+/* SCSS HSL */
+$dark-moss-green: hsla(81, 65%, 20%, 1);
+$jordy-blue: hsla(209, 78%, 73%, 1);
+$old-gold: hsla(61, 74%, 43%, 1);
+$pakistan-green: hsla(88, 90%, 12%, 1);
+$ruddy-blue: hsla(208, 79%, 64%, 1);
+$night: hsla(74, 85%, 5%, 1);
+
+/* SCSS RGB */
+$dark-moss-green: rgba(62, 85, 18, 1);
+$jordy-blue: rgba(134, 189, 240, 1);
+$old-gold: rgba(187, 190, 29, 1);
+$pakistan-green: rgba(32, 58, 3, 1);
+$ruddy-blue: rgba(92, 168, 236, 1);
+$night: rgba(19, 24, 2, 1);
+
+/* SCSS Gradient */
+$gradient-top: linear-gradient(0deg, #3E5512ff, #86BDF0ff, #BBBE1Dff, #203A03ff, #5CA8ECff, #131802ff);
+$gradient-right: linear-gradient(90deg, #3E5512ff, #86BDF0ff, #BBBE1Dff, #203A03ff, #5CA8ECff, #131802ff);
+$gradient-bottom: linear-gradient(180deg, #3E5512ff, #86BDF0ff, #BBBE1Dff, #203A03ff, #5CA8ECff, #131802ff);
+$gradient-left: linear-gradient(270deg, #3E5512ff, #86BDF0ff, #BBBE1Dff, #203A03ff, #5CA8ECff, #131802ff);
+$gradient-top-right: linear-gradient(45deg, #3E5512ff, #86BDF0ff, #BBBE1Dff, #203A03ff, #5CA8ECff, #131802ff);
+$gradient-bottom-right: linear-gradient(135deg, #3E5512ff, #86BDF0ff, #BBBE1Dff, #203A03ff, #5CA8ECff, #131802ff);
+$gradient-top-left: linear-gradient(225deg, #3E5512ff, #86BDF0ff, #BBBE1Dff, #203A03ff, #5CA8ECff, #131802ff);
+$gradient-bottom-left: linear-gradient(315deg, #3E5512ff, #86BDF0ff, #BBBE1Dff, #203A03ff, #5CA8ECff, #131802ff);
+$gradient-radial: radial-gradient(#3E5512ff, #86BDF0ff, #BBBE1Dff, #203A03ff, #5CA8ECff, #131802ff);
